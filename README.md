@@ -1,0 +1,3 @@
+# GeeksForGeeksProblems
+
+Solved in Python
